@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BlockClosure_HackNITR/static/css/main.b4b30e5c.css",
+    "main.js": "/BlockClosure_HackNITR/static/js/main.2e7ee936.js",
+    "static/media/house.png": "/BlockClosure_HackNITR/static/media/house.b5bd35d2dfaf6a2f3c2d.png",
+    "index.html": "/BlockClosure_HackNITR/index.html",
+    "main.b4b30e5c.css.map": "/BlockClosure_HackNITR/static/css/main.b4b30e5c.css.map",
+    "main.2e7ee936.js.map": "/BlockClosure_HackNITR/static/js/main.2e7ee936.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4b30e5c.css",
+    "static/js/main.2e7ee936.js"
+  ]
+}
