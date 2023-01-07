@@ -1,3 +1,37 @@
+# BlockClosure
+
+## Real Estate App on the Blockchain using the power of NFTs
+
+#### Created by Team BlockCyphers
+[Varun Doshi](https://github.com/varun-doshi) and [Suchita Malick](https://github.com/CyberNaut-bot)
+
+### The problem BlockClosure solves
+#### Using the power of Smart Contracts, all transactions in a Real Estate Process can be secured ensuring there is no tampering with the contract. It ensures that the Escrow Account is completely neutral. Land and property registration along with ownership transfer is done through NFTs which guarentees there will be no dispute on the topic. Through NFTs the history of owners can also be found. This helps in Property Management as well as it is easier to collect mortgages and rent through predetermined contracts.
+
+## [Check out the website here](https://varun-doshi.github.io/BlockClosure_HackNITR/)
+
+## Functioning of the Dapp
+
+#### User must connect his Metamask Wallet to buy any property. Once connected, user can choose from a list of properties. Ownership of the properties are stored as NFTs using IPFS server. Once listed, the respective NFTs are transferred to the contract's address. The contract acts as an Escrow acoount which holds ownership until certain conditions are met. When the user makes the necessary payment through Metamask, the contract transfers the NFT to the owners address. Thus, ownership of the property has been transferred to the user.
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
